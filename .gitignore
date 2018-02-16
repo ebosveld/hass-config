@@ -21,6 +21,7 @@ known_devices.yaml
 pyozw.sqlite
 ip_bans.yaml
 .*
+!*/.gitkeep
 !/.gitignore
 config
 ozw_config
